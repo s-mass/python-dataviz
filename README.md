@@ -1,2 +1,2 @@
 # python-dataviz
-Hi, here, you will find some data visualization projects I did using python. 
+Hi. Here are some samples of data visualizations I created using Python (NumPy, Pandas, Matplotlib, Seaborn, Plotly). 

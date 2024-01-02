@@ -1,2 +1,2 @@
 # python-dataviz
-Data Visualization using Python
+Hi, here, you will find some data visualization projects I did using python. 
